@@ -20,7 +20,6 @@
 		{
 			removeEventListener( Event.ADDED_TO_STAGE, init );
 			// entry point
-			/*
 			var video : VideoFactory = new VideoFactory("http://example.com/sample.flv");
 			video.connect();
 			addChild( video );
@@ -28,7 +27,6 @@
 			var videoControl : VideoControl = new VideoControl( video.param );
 			videoControl.y = video.param.video.height;
 			addChild( videoControl );
-			*/
 		}
 		
 	}
