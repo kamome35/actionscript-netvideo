@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Demo](https://user-images.githubusercontent.com/42742556/50453146-e04bb580-0981-11e9-84d4-8ad5e21e9d9e.gif)
+![upload](https://kyoronet.github.io/image-storage/actionscript-netvideo/demo.gif)
 
 ## Prerequisites
 
